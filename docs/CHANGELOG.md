@@ -4,6 +4,15 @@ Ghi mới nhất ở trên cùng. Mỗi lần sửa web thêm một mục gồm:
 
 Phiên bản CSS và JS hiện tại: `site.css?v=8`, `site.js?v=8` (biến `asset_v` trong `_config.yml` dùng cho mục Kiến thức).
 
+## 2026-11-14 (11:00): Chính sách thêm Pages API và hướng dẫn xóa dữ liệu
+
+Nam đồng ý sửa và đẩy lên GitHub lúc 10:42 (trong chat dự án AutoPost).
+
+- `chinh-sach.html`, mục 3: thêm dòng "Pages API (API Trang)" cho ứng dụng HA NAM AGENCY đăng bài, ảnh, bình luận theo lịch lên Trang của HÀ NAM AGENCY; thêm ý ứng dụng không đọc tin nhắn, không thu thập thông tin người theo dõi.
+- Thêm đoạn `#xoa-du-lieu` "Hướng dẫn xóa dữ liệu" (Zalo, email, thời gian xử lý như mục Quyền của bạn, cách gỡ ứng dụng). Dùng làm "URL hướng dẫn xóa dữ liệu" trong cài đặt ứng dụng Meta.
+- Lý do: chuẩn bị chuyển ứng dụng Meta HA NAM AGENCY sang chế độ Đăng để bài đăng tự động hiện công khai.
+- Kiểm thử: HTML đọc được, soát từ cấm không có, không có mã Liquid. Chỉ thêm chữ, không đổi CSS, JS, `?v=`.
+
 ## 2026-10-16 (10:10): Đưa CAPI và TikTok lên thật
 
 Nam trả lời "duyệt" lúc 09:50.

@@ -80,3 +80,8 @@ Cập nhật: 16/10/2026. Đợt 16/10 (nhánh `claude/xac-nhan-lead-va-noi-dung
 | Search Console, sitemap | Chưa triển khai | |
 | Báo cáo phễu hằng tuần trong Google Sheet | Chưa triển khai | Đợt sau |
 | Nút tự nguyện gửi kết quả Checklist | Chưa triển khai | Đợt sau |
+
+## Đợt 14/11/2026: chính sách cho ứng dụng Meta đăng bài tự động
+
+- Đã xong: `chinh-sach.html` thêm Pages API ở mục 3 và đoạn `#xoa-du-lieu`.
+- Ngoài web: ứng dụng Meta HA NAM AGENCY dùng `chinh-sach.html#bao-mat` (quyền riêng tư), `#dieu-khoan` (điều khoản), `#xoa-du-lieu` (hướng dẫn xóa dữ liệu). Dự án đăng bài tự động ghi ở thư mục AUTOPOST_FB_PAGE trên máy Nam, ngoài repo.
